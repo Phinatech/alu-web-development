@@ -1,0 +1,34 @@
+#video_section{
+    width:1228px ;
+    height:450px ;
+    top:100px,
+}
+
+.video{
+    width: 255px;
+    height: 335px;
+    display: flex;
+    flex-direction: column;
+    flex-direction: column;
+
+}
+
+.video_thumbnail{
+width: 250px;
+}
+
+.video_title{
+width:106px ;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.video_description{
+    left:13px
+}
+
+.author_image{
+    width: 30px;
+    height: 40px;
+    
+}
