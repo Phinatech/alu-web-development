@@ -1,0 +1,24 @@
+#Container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#main_Container{
+    /* width: 100%;
+    height: 100%; */
+    display: flex;
+    flex:auto;
+    flex-direction: row;
+}
+
+.articles{
+    flex: 2;
+    overflow-y: auto;
+}
+
+.asides{
+    flex: 1;
+    overflow-y: auto;
+}
